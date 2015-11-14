@@ -1,2 +1,2 @@
 # OHI-O-hackathon
-Developed an Innovative android app for Green rating system of individuals and organizations by quantifying daily reductions in carbon footprint
+Developed an Innovative android app for providing restaurant preferences based on Calorie and budget limit for individuals
